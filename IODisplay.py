@@ -1,4 +1,4 @@
-seq = input("Enter a secvence of numbers: ")
+seq = input("Enter a sequence of numbers: ")
 
 arr = []
 arr_dim = int(input("Enter the dimension of the array of numbers: "))
