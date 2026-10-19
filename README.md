@@ -11,5 +11,5 @@ RUN APP INSTRUCTIONS:
 -ReadFile.py-
 	First you will be asked for the name of the file you would like to open. Enter the filename inside the same folder as the script or the full file path. 
 	Then the program will check whether the file exists or not.
-	If the file exists it will display its contents, otherwise it will output a "File not found" error. 
+	If the file exists it will display its contents, otherwise it will output a "File not found" error.
 
